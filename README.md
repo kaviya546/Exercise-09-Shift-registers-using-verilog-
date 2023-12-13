@@ -48,32 +48,54 @@ A Parallel in Parallel out (PIPO) shift register is used as a temporary storage 
 ### PROGRAM 
 /*
 Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: 
-RegisterNumber:  
-*/
 
+Developed by: KAVIYA SNEKA M
 
+RegisterNumber:  23003642
 
+Code:
 
+SERIAL INPUT PARALLEL OUTPUT:
 
+![SIPO CODE](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/cf049e36-5ebd-49dd-ad85-2d4d89a3f06e)
 
-### RTL LOGIC  REGISTERS   
+PARALLEL INPUT SERIAL OUTPUT:
 
+![PISO CODE](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/7dfb5dfc-6c3f-4215-bc9f-ed5449ec7da9)
 
+PARALLEL INPUT PARALLEL OUTPUT:
 
+![PIPO CODE](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/9cacfe37-04f9-4da7-a7e0-a5360608762e)
 
+RTL Diagram:
 
+SERIAL INPUT PARALLEL OUTPUT:
 
+![SIPO RTL](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/fa0e7ee4-4e25-4bd1-8ba7-6a8b30200e2a)
 
+PARALLEL INPUT SERIAL OUTPUT:
 
+![PISO RTL](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/086fa28a-53a3-4991-a1ac-a5ccdeeecf45)
 
-### TIMING DIGRAMS FOR SHIFT REGISTERS
+PARALLEL INPUT PARALLEL OUTPUT:
 
+![PIPO RTL](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/d4eeb8b7-9c83-4aff-a3b0-ce164de2e273)
 
+Output:
 
+SERIAL INPUT PARALLEL OUTPUT:
 
+![SIPO TIME](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/367d5ad6-bdd7-4590-89c1-a2345a17322a)
 
+PARALLEL INPUT SERIAL OUTPUT:
 
+![PISO TIME](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/9d4caf73-4f2d-4fc9-9aac-e538e6e7e5f6)
 
+PARALLEL INPUT PARALLEL OUTPUT:
+
+![PIPO TIME](https://github.com/kaviya546/Exercise-09-Shift-registers-using-verilog-/assets/150368823/c3950d61-cd14-4011-b2f0-6c73a4bc21fa)
 
 ### RESULTS 
+
+Implementation of PISO , PIPO, PISO using verilog program is done and its functionality is validated
+using their functional tables
